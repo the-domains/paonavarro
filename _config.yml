@@ -1,0 +1,28 @@
+name: paonavarro
+favicon: null
+layout_spectrum: 0.6771189603023231
+typography_spectrum: 0.8115721349604428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9930359311401844
+  lightness: 0.8037780795712024
+  saturation: 0.6021297594998032
+  rhythmicContrast: 0.8921624713111669
+purpose: []
